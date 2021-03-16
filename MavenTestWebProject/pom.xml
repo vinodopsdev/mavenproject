@@ -24,7 +24,7 @@
         <configuration>
           <server>maven-tomcat-war-deployer-server</server>
           <url>http://13.126.148.95:8080/manager/text</url>
-          <path>/vinod</path>
+          <path>/sample</path>
         </configuration>
       </plugin>
     </plugins>
