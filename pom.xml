@@ -24,7 +24,7 @@
         <configuration>
           <server>maven-tomcat-war-deployer-server</server>
           <url>http://13.126.148.95:8081/manager/text</url>
-          <path>/sample</path>
+          <path>/maven</path>
         </configuration>
       </plugin>
     </plugins>
